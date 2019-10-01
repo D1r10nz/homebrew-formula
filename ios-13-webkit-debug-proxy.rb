@@ -1,4 +1,4 @@
-class IosWebkitDebugProxyIos13 < Formula
+class Ios13WebkitDebugProxy < Formula
   desc "DevTools proxy for iOS devices"
   homepage "https://github.com/google/ios-webkit-debug-proxy"
   url "https://github.com/mickelluchko/ios-webkit-debug-proxy/archive/v1.8.5.tar.gz"
